@@ -1,0 +1,14 @@
+{
+  "name": "cli-plugin-ssr",
+  "version": "0.0.1",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "description": ""
+}
